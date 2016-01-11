@@ -4,7 +4,7 @@ RUN mkdir -p /go/src/github.com/hashicorp/terraform
 WORKDIR /go/src/github.com/hashicorp/terraform
 
 ENV TERRAFORM_BRANCH=master
-ENV TERRAFORM_REF=c7573de75b196c474ba70de7f908afa8b83f8b41
+ENV TERRAFORM_REF=6ee4e8597a86ee32d101281de5f230971299a781
 ENV XC_ARCH=amd64
 ENV XC_OS=linux
 
