@@ -1,4 +1,4 @@
-# bigcommerce/terraform-docker
+# gwilym/terraform-docker
 
 This repo contains a Dockerfile to compile (from source) and run Terraform.
 
